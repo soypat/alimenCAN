@@ -9,4 +9,6 @@ Won two prizes at the *Feria de electrónica del ITBA 2018* from sponsoring comp
 * [Schneider Electric](https://www.se.com)
 * [Autotrol](http://www.autotrol.net/)
 
-
+## Creators
+Nahuel Letang
+Patricio Whittingslow
